@@ -1,0 +1,22 @@
+<resources>
+    <!-- Place Holders -->
+    <string name="manga_title_placeholder">Manga Title</string>
+    <string name="manga_author_placeholder">Manga Author</string>
+    <string name="manga_subtitle_placeholder">Manga Subtitle</string>
+    <string name="img_manga_cover_placeholder_description">Placeholder for manga cover image</string>
+    <string name="drop_down_menu_placeholder">Drop Down Menu</string>
+
+    <!-- Options Manga -->
+    <string name="manga_option_reading">Reading</string>
+    <string name="manga_option_favorite">Favorite</string>
+    <string name="manga_option_completed">Completed</string>
+    <string name="manga_option_on_hold">On Hold</string>
+    <string name="manga_option_dropped">Dropped</string>
+    <string name="manga_option_plan_to_read">Plan to Read</string>
+    <string name="manga_option_share">Share</string>
+    <string name="manga_option_choose_an_option">Choose an Option</string>
+
+
+    <!-- Strings -->
+    <string name="app_name">EclipseTracking</string>
+</resources>
